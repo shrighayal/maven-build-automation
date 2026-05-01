@@ -32,3 +32,4 @@ java -cp target/my-maven-app-1.0-SNAPSHOT.jar com.myapp.App
 
 ## Expected Output
 # maven-build-automation
+# maven-build-automation
