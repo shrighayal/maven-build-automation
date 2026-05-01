@@ -31,3 +31,4 @@ java -cp target/my-maven-app-1.0-SNAPSHOT.jar com.myapp.App
 - Apache Commons Lang 3.12.0 (Utility)
 
 ## Expected Output
+# maven-build-automation
